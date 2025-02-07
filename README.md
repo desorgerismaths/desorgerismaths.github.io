@@ -237,7 +237,7 @@
         </section>
 
                       <!-- Section seconde -->
-<section id="seconde">
+<section id="agreg">
     <h1>Agrégation externe</h1>
     <div class="spoiler">
         <input type="checkbox" id="spoiler1">
