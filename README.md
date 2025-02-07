@@ -68,20 +68,30 @@
             </ul>
         </section>
 
-        <!-- Section Projets -->
-        <section id="projets">
-            <h2>Projets</h2>
-            <p>Découvrez les projets pédagogiques que je propose.</p>
+        <!-- Section Supérieur -->
+        <section id="superieur">
+            <h2>Supérieur</h2>
+            <p>...</p>
             <ul>
-                <li><a href="projets/projet1.pdf" target="_blank">Projet 1</a></li>
-                <li><a href="projets/projet2.pdf" target="_blank">Projet 2</a></li>
+                <li><a href="superieur/projet1.pdf" target="_blank">Projet 1</a></li>
+                <li><a href="superieur/projet2.pdf" target="_blank">Projet 2</a></li>
+            </ul>
+        </section>
+
+        <!-- Section Agrégation -->
+        <section id="agreg">
+            <h2>Agrégation</h2>
+            <p>Voici les documents relatifs à ma préparation à l'agrégation.</p>
+            <ul>
+                <li><a href="agreg/projet1.pdf" target="_blank">Projet 1</a></li>
+                <li><a href="agreg/projet2.pdf" target="_blank">Projet 2</a></li>
             </ul>
         </section>
 
         <!-- Section Contact -->
         <section id="contact">
             <h2>Contact</h2>
-            <p>Vous pouvez me contacter à l'adresse suivante : <a href="mailto:mon-email@exemple.com">mon-email@exemple.com</a>.</p>
+            <p>Vous pouvez me contacter à l'adresse suivante : <a href="mailto:desorgeris.maths@gmail.com">mon-email@exemple.com</a>.</p>
         </section>
     </div>
     <footer>
