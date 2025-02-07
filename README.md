@@ -53,21 +53,52 @@
         <p>Bienvenue </p>
     </header>
     <nav>
-        <a href="#lycee">Lycée</a>
+        <a href="#seconde">Seconde</a>
+        <a href="#premiere">Première</a>
+        <a href="#terminale">Terminale</a>
         <a href="#superieur">Supérieur</a>
         <a href="#agreg">Agrégation</a>
         <a href="#contact">Contact</a>
     </nav>
     <div class="container">
-        <!-- Section Lycée -->
-        <section id="lycee">
-            <h2>Lycée</h2>
-            <p>Retrouvez ici tous mes cours et travaux dirigés .</p>
+        <!-- Section Seconde -->
+        <section id="seconde">
+            <h2>Seconde</h2>
+            <p>Retrouvez ici tous les cours et travaux dirigés pour la classe de Seconde. .</p>
             <ul>
                 <li><a href="lycee/Chapitre 7 - Fonction dérivée.pdf" target="_blank">Cours 1 - Classe 1</a></li>
                 <li><a href="lycee/classe2/cours2.pdf" target="_blank">Cours 2 - Classe 2</a></li>
             </ul>
         </section>
+
+
+        <!-- Section premiere -->
+<section id="premiere">
+    <h1>Classe de Première</h1>
+    <div class="spoiler">
+        <input type="checkbox" id="spoiler1">
+        <label for="spoiler1">Cours</label>
+        <div>
+            <ul>
+                <li><a href="../documents/seconde/cours1.pdf" target="_blank">Cours 1</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Cours 2</a></li>
+                <!-- Ajoutez d'autres cours ici -->
+            </ul>
+        </div>
+    </div>
+    <div class="spoiler">
+        <input type="checkbox" id="spoiler2">
+        <label for="spoiler2">Travaux Dirigés</label>
+        <div>
+            <ul>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD 1</a></li>
+                <li><a href="../documents/seconde/td2.pdf" target="_blank">TD 2</a></li>
+                <!-- Ajoutez d'autres TD ici -->
+            </ul>
+        </div>
+    </div>
+    <a href="index.html">Retour à la section Lycée</a>
+</section>
 
         <!-- Section Supérieur -->
         <section id="superieur">
