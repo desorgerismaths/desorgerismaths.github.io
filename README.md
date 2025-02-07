@@ -269,7 +269,7 @@
         <!-- Section Contact -->
         <section id="contact">
             <h2>Contact</h2>
-            <p>Vous pouvez me contacter à l'adresse suivante : <a href="mailto:desorgeris.maths@gmail.com">mon-email@exemple.com</a>.</p>
+            <p>Vous pouvez me contacter à l'adresse suivante : <a href="mailto:desorgeris.maths@gmail.com">desorgeris.maths@gmail.com</a>.</p>
         </section>
     </div>
     <footer>
