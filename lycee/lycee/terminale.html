@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Première</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        .spoiler {
+            margin: 20px 0;
+            text-align: left;
+        }
+        .spoiler input {
+            display: none;
+        }
+        .spoiler label {
+            display: block;
+            background: #007BFF;
+            color: white;
+            padding: 10px;
+            cursor: pointer;
+        }
+        .spoiler input:checked + label {
+            background: #0056b3;
+        }
+        .spoiler input:checked + label + div {
+            display: block;
+        }
+        .spoiler div {
+            display: none;
+            padding: 10px;
+            border: 1px solid #007BFF;
+        }
+    </style>
+</head>
+<body>
+    <h1>Classe de Première</h1>
+    <div class="spoiler">
+        <input type="checkbox" id="spoiler1">
+        <label for="spoiler1">Cours</label>
+        <div>
+            <a href="../documents/premiere/cours1.pdf" target="_blank">Cours 1</a>
+        </div>
+    </div>
+    <div class="spoiler">
+        <input type="checkbox" id="spoiler2">
+        <label for="spoiler2">Travaux Dirigés</label>
+        <div>
+            <a href="../documents/premiere/td1.pdf" target="_blank">TD 1</a>
+        </div>
+    </div>
+    <a href="index.html">Retour à la section Lycée</a>
+</body>
+</html>
