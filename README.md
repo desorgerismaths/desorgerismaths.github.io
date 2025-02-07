@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -53,18 +53,18 @@
         <p>Bienvenue </p>
     </header>
     <nav>
-        <a href="#cours">Cours</a>
+        <a href="#lycee">Lycée</a>
         <a href="#projets">Projets</a>
         <a href="#contact">Contact</a>
     </nav>
     <div class="container">
-        <!-- Section Cours -->
-        <section id="cours">
+        <!-- Section Lycée -->
+        <section id="lycee">
             <h2>Cours</h2>
-            <p>Retrouvez ici tous mes cours et supports pédagogiques.</p>
+            <p>Retrouvez ici tous mes cours et travaux dirigés .</p>
             <ul>
-                <li><a href="cours/classe1/cours1.pdf" target="_blank">Cours 1 - Classe 1</a></li>
-                <li><a href="cours/classe2/cours2.pdf" target="_blank">Cours 2 - Classe 2</a></li>
+                <li><a href="lycee/seconde/cours1.pdf" target="_blank">Cours 1 - Classe 1</a></li>
+                <li><a href="lycee/classe2/cours2.pdf" target="_blank">Cours 2 - Classe 2</a></li>
             </ul>
         </section>
 
@@ -85,7 +85,7 @@
         </section>
     </div>
     <footer>
-        <p>&copy; 2023 Mon Site Enseignant</p>
+        <p>&copy; 2025 DESORGERIS Thomas</p>
     </footer>
 </body>
 </html>
