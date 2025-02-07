@@ -54,7 +54,8 @@
     </header>
     <nav>
         <a href="#lycee">Lycée</a>
-        <a href="#projets">Projets</a>
+        <a href="#superieur">Supérieur</a>
+        <a href="#agreg">Agrégation</a>
         <a href="#contact">Contact</a>
     </nav>
     <div class="container">
