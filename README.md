@@ -238,7 +238,7 @@
 
                       <!-- Section seconde -->
 <section id="seconde">
-    <h1>Classe de Seconde</h1>
+    <h1>Agrégation externe</h1>
     <div class="spoiler">
         <input type="checkbox" id="spoiler1">
         <label for="spoiler1">Leçons</label>
