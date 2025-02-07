@@ -49,8 +49,8 @@
 </head>
 <body>
     <header>
-        <h1>Mon Site Enseignant</h1>
-        <p>Bienvenue sur mon site pédagogique</p>
+        <h1>Page personnelle de Thomas DESORGERIS</h1>
+        <p>Bienvenue </p>
     </header>
     <nav>
         <a href="#cours">Cours</a>
