@@ -66,11 +66,23 @@
     <h1>Classe de Seconde</h1>
     <div class="spoiler">
         <input type="checkbox" id="spoiler1">
-        <label for="spoiler1">Cours</label>
+        <label for="spoiler1">Chapitre</label>
         <div>
             <ul>
-                <li><a href="../documents/seconde/cours1.pdf" target="_blank">Cours 1</a></li>
-                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Cours 2</a></li>
+                <li><a href="../documents/seconde/cours1.pdf" target="_blank">Chapitre 1 - Calcul numérique et calcul littéral</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 2 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 3 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 4 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 5 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 6 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 7 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 8 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 9 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 10 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 11 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 12 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 13 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 14 - ...</a></li>
                 <!-- Ajoutez d'autres cours ici -->
             </ul>
         </div>
@@ -80,8 +92,20 @@
         <label for="spoiler2">Travaux Dirigés</label>
         <div>
             <ul>
-                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD 1</a></li>
-                <li><a href="../documents/seconde/td2.pdf" target="_blank">TD 2</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD1 - Calcul numérique et calcul littéral</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD2 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD3 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD4 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD5 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD6 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD7 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD8 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD9 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD10 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD11 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD12 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD13- ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD14- ...</a></li>
                 <!-- Ajoutez d'autres TD ici -->
             </ul>
         </div>
@@ -98,8 +122,20 @@
         <label for="spoiler1">Cours</label>
         <div>
             <ul>
-                <li><a href="../documents/seconde/cours1.pdf" target="_blank">Cours 1</a></li>
-                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Cours 2</a></li>
+                <li><a href="../documents/seconde/cours1.pdf" target="_blank">Chapitre 1 - Polynômes du second degré (pt1) </a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 2 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 3 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 4 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 5 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 6 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 7 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 8 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 9 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 10 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 11 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 12 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 13 - ...</a></li>
+                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 14 - ...</a></li>
                 <!-- Ajoutez d'autres cours ici -->
             </ul>
         </div>
@@ -109,8 +145,20 @@
         <label for="spoiler2">Travaux Dirigés</label>
         <div>
             <ul>
-                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD 1</a></li>
-                <li><a href="../documents/seconde/td2.pdf" target="_blank">TD 2</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD1 - Polynômes du second degré (pt1)</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD2 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD3 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD4 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD5 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD6 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD7 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD8 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD9 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD10 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD11 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD12 - ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD13- ...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">TD14- ...</a></li>
                 <!-- Ajoutez d'autres TD ici -->
             </ul>
         </div>
