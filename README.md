@@ -70,7 +70,7 @@
         <div>
             <ul>
                 <li><a href="lycee/lycee/lycee/Cours prof Calcul littéral.pdf" target="_blank">Chapitre 1 - Calcul numérique et calcul littéral</a></li>
-                <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 2 - ...</a></li>
+                <li><a href="lycee/lycee/lycee/Cours - Les ensembles de nombres prof.pdf" target="_blank">Chapitre 2 - ...</a></li>
                 <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 3 - ...</a></li>
                 <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 4 - ...</a></li>
                 <li><a href="../documents/seconde/cours2.pdf" target="_blank">Chapitre 5 - ...</a></li>
