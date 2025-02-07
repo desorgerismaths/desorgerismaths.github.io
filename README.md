@@ -61,7 +61,7 @@
     <div class="container">
         <!-- Section Lycée -->
         <section id="lycee">
-            <h2>Cours</h2>
+            <h2>Lycée</h2>
             <p>Retrouvez ici tous mes cours et travaux dirigés .</p>
             <ul>
                 <li><a href="lycee/seconde/cours1.pdf" target="_blank">Cours 1 - Classe 1</a></li>
