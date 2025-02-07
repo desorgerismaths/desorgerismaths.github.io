@@ -64,7 +64,7 @@
             <h2>Lycée</h2>
             <p>Retrouvez ici tous mes cours et travaux dirigés .</p>
             <ul>
-                <li><a href="lycee/seconde/cours1.pdf" target="_blank">Cours 1 - Classe 1</a></li>
+                <li><a href="lycee/Chapitre 7 - Fonction dérivée.pdf" target="_blank">Cours 1 - Classe 1</a></li>
                 <li><a href="lycee/classe2/cours2.pdf" target="_blank">Cours 2 - Classe 2</a></li>
             </ul>
         </section>
