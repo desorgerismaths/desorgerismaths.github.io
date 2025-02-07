@@ -236,16 +236,36 @@
             </ul>
         </section>
 
-        <!-- Section Agrégation -->
-        <section id="agreg">
-            <h2>Agrégation</h2>
-            <p>Voici les documents relatifs à ma préparation à l'agrégation.</p>
+                      <!-- Section seconde -->
+<section id="seconde">
+    <h1>Classe de Seconde</h1>
+    <div class="spoiler">
+        <input type="checkbox" id="spoiler1">
+        <label for="spoiler1">Leçons</label>
+        <div>
             <ul>
-                <li><a href="agreg/projet1.pdf" target="_blank">Projet 1</a></li>
-                <li><a href="agreg/projet2.pdf" target="_blank">Projet 2</a></li>
-            </ul>
-        </section>
+                <li><a href="../documents/seconde/cours1.pdf" target="_blank">Leçon 101: ...</a></li>
+                <li><a href="../documents/seconde/cours1.pdf" target="_blank">Leçon 102: ...</a></li>
+                <li><a href="../documents/seconde/cours1.pdf" target="_blank">Leçon 103: ...</a></li>
 
+                <!-- Ajoutez d'autres cours ici -->
+            </ul>
+        </div>
+    </div>
+    <div class="spoiler">
+        <input type="checkbox" id="spoiler2">
+        <label for="spoiler2">Développements</label>
+        <div>
+            <ul>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">Développement 1 :...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">Développement 2 :...</a></li>
+                <li><a href="../documents/seconde/td1.pdf" target="_blank">Développement 3 :...</a></li>
+            
+            </ul>
+        </div>
+    </div>
+    
+</section>
         <!-- Section Contact -->
         <section id="contact">
             <h2>Contact</h2>
